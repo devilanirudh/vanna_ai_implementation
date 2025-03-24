@@ -1,0 +1,6 @@
+vanna>=0.0.1
+fastapi>=0.68.0
+uvicorn>=0.15.0
+asyncpg>=0.25.0
+python-dotenv>=0.19.0
+pydantic>=1.8.0 
